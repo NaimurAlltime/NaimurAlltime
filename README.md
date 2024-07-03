@@ -20,4 +20,14 @@
 🌱 &nbsp; I'm on track to learning more about programming, software development.\
 ✉️ &nbsp; You can email me at **naimur2231@gmail.com**, and I'll try to respond as soon as possible.\
 📄 &nbsp; Please have a look at my **[Resume](https://drive.google.com/file/d/1zil-kA3nRZltmDmjix5RHXbspJniIFr6/view)** for more details about me.\
-⚡ &nbsp; Good at **TypeScript, JavaScript, Express.js, Node.js, MongoDB, PostgresSQL, React, Next.js, Redux-toolkit**\
+⚡ &nbsp; Good at **TypeScript, JavaScript, Express.js, Node.js, MongoDB, PostgresSQL, React, Next.js, Redux-toolkit**
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/naimur22315/"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+
+<a href="https://web.facebook.com/naimur22315"><img src="https://img.shields.io/badge/-Facebook-16499c?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://x.com/naimur22315"><img src="https://img.shields.io/badge/-Twitter-511ec7?style=flat&logo=x&logoColor=white"/></a>
+
+</p>

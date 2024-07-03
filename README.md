@@ -12,3 +12,4 @@
     /> </picture   >, I'm Naimur Rahman
   </h1>
   <h3 align="center">A Full Stack Developer with a huge love for JavaScript, Typescript, React.js, Next.js, Node.js, RDBMS, REST API, and Design responsive user interface.</h3>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=NaimurAlltime&label=Profile%20views&color=0e75b6&style=flat" alt="NaimurAlltime" /> </p>

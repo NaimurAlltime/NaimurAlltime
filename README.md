@@ -56,14 +56,27 @@
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
+</table>
+
+---
+
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p width="50%" align="left">
+<p align="center">
+<table align="center" >
+<tr border="none">
+<td width="50%" align="center">
+
 <a href="https://github.com/NaimurAlltime">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NaimurAlltime&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NaimurAlltime&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-</p>
-<p width="50%" align="center">
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=NaimurAlltime&theme=react&hide_border=false&border_radius=8&background=0D1117&stroke=35A29F&fire=35A29F&sideLabels=35A29F&currStreakNum=35A29F&ring=35A29F&currStreakLabel=35A29F&sideNums=35A29F" />
-</p>
+
+</td>
+<td width="50%" align="center">
+
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=NaimurAlltime&theme=react&hide_border=false&border_radius=8&background=0D1117&stroke=35A29F&fire=35A29F&sideLabels=35A29F&currStreakNum=35A29F&ring=35A29F&currStreakLabel=35A29F&sideNums=35A29F" />
+  
+  </td>
+</tr>
+</table>
